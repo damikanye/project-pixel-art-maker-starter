@@ -1,11 +1,16 @@
 body {
     text-align: center;
+    background: linear-gradient(#38adae, #cd295a) no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
 
 h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    font-style: italic;
+    color: rosybrown;
 }
 
 h2 {
